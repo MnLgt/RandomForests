@@ -1,0 +1,6 @@
+brew install --cask cleanmymac
+brew install --cask pgadmin4
+brew install --cask github
+brew install --cask visual-studio-code
+brew install --cask google-drive
+brew install sublime-text

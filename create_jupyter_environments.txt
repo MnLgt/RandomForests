@@ -1,0 +1,18 @@
+create virtual environments for jupyter notebooks
+https://docs.python.org/3/tutorial/venv.html
+
+python -m venv venv_name --upgrade-deps --system-site-packages
+
+source path_to_venv/bin/activate       ## puts the venv in the terminal path
+
+python pip install wheel      
+
+cd into the folder
+
+python -m pip install -r requirements.txt      
+
+python pip install ipykernel   
+
+ipython kernel install --user --name=project_name
+
+https://anbasile.github.io/posts/2017-06-25-jupyter-venv/
