@@ -4,3 +4,5 @@ brew install --cask github
 brew install --cask visual-studio-code
 brew install --cask google-drive
 brew install sublime-text
+brew install node
+brew install freetype imagemagick ## for handwriting signature detection
