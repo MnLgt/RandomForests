@@ -1,5 +1,0 @@
-python3 -m spacy init fill-config /Users/jordandavis/Documents/prodigy/models/legal_citations/base_config.cfg /Users/jordandavis/Documents/prodigy/models/legal_citations/base.cfg
-
-cd into folder then 
-
-python3 -m spacy train config.cfg --output ./output --paths.train ./train.spacy --paths.dev ./dev.spacy

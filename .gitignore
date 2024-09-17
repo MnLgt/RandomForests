@@ -1,0 +1,45 @@
+# Python related
+__pycache__/
+*.pyc
+*.swp
+*.egg-info/
+**/.ipynb_checkpoints/
+
+# macOS related
+.DS_Store
+
+# Archive and binary files
+*.zip
+*.deb
+*.bin
+*.ckpt
+
+# Logs and temporary files
+*.log
+logs/*
+*.env
+..env.swp
+*.txt
+*.pdf
+
+# JSON files
+*.json
+*.jsonl
+
+# Image files
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.bmp
+*.webp
+*.tiff
+
+# Virtual environments
+venv/
+
+# Key files 
+*.crt 
+*.key
+*.pem
+*.csr
